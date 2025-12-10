@@ -70,7 +70,7 @@ const App: React.FC = () => {
               Análise Jurídica Inteligente
             </h1>
             <p className="text-center text-slate-500 mb-8 max-w-2xl mx-auto">
-              Utilize a potência do Google Gemini para extrair insights, resumos e fatos processuais em segundos.
+              Extraia insights, resumos e fatos processuais em segundos.
             </p>
             
             <FileUpload 
